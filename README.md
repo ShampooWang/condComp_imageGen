@@ -7,13 +7,13 @@ This repository contains implementations and experiments for conditional composi
 <table align="center">
 <tr>
 <td width="48%" align="center" valign="middle">
-<img src="method_illustrations/comp_v5.png" height="350">
+<img src="method_illustrations/comp_v5.png" height="500">
 </td>
 
 <td width="4%"></td>
 
 <td width="48%" align="center" valign="middle">
-<img src="method_illustrations/decomp_v4.png" height="350">
+<img src="method_illustrations/decomp_v4.png" height="500">
 </td>
 </tr>
 </table>
