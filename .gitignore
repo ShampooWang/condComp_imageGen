@@ -4,7 +4,6 @@ samples/
 __pycache__/
 exp_samples/
 stanza_resources/
-*.png
 *.jpg
 _test.py
 bounded-attention/
