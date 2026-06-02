@@ -1,0 +1,14 @@
+# Core
+numpy==1.26.4
+
+# Hugging Face / Diffusion
+diffusers==0.35.2
+transformers==4.39.3
+accelerate==1.11.0
+
+# NLP
+nltk==3.9.2
+stanza==1.11.0
+
+# Vision / Dataset
+pycocotools
