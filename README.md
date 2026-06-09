@@ -146,7 +146,7 @@ Output: writes per-image detection JSON (`eval_results.json`) and prints success
 ## 4. Limitations
 
 1. Composition quality is not always ideal: newly added objects may appear partially generated, and their placement can be spatially unnatural in some cases.
-2. In our experiments, it requires approximately 3$\times$--6$\times$ longer inference time than single-stage methods such as Attend-and-Excite.
+2. In our experiments, it requires approximately 3x--6x longer inference time than single-stage methods such as Attend-and-Excite.
 
 
 ## 5. Demo
